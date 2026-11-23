@@ -45,3 +45,8 @@ tree-maker
 .cursor
 .claude/
 .cursor/
+
+# Contentstack CLI backups, logs & local setup check
+_backup_*/
+logs/
+check-setup.mjs
